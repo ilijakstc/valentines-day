@@ -45,9 +45,6 @@ export default function GetReady() {
           >
             Drücken, wenn du beim Abendessen ankommst
           </Link>
-          <p className="text-sm text-black opacity-70">
-            Schau später in deine Nachrichten für den Standort!
-          </p>
         </div>
       </main>
     </div>

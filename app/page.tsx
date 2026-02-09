@@ -34,14 +34,14 @@ export default function Home() {
           <div className="flex gap-6 justify-center w-full">
             <button
               onClick={handleYesClick}
-              className="rounded-full bg-valentine px-8 py-4 text-xl font-bold text-white shadow-lg"
+              className="rounded-full bg-valentine px-4 py-4 text-xl font-bold text-white shadow-lg"
             >
               Ja 😍
             </button>
 
             <button
               onClick={handleNoClick}
-              className="rounded-full border-2 border-valentine bg-white px-8 py-4 text-xl font-bold text-valentine shadow-lg"
+              className="rounded-full border-2 border-valentine bg-white px-4 py-4 text-xl font-bold text-valentine shadow-lg"
             >
               Nein 😢
             </button>

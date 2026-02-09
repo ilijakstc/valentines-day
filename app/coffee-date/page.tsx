@@ -13,12 +13,12 @@ const coffeeSpots = [
 	{
 		id: "misa",
 		name: "Misa Matcha",
-		emoji: "??",
+		emoji: "🍵",
 	},
 	{
 		id: "ototo",
 		name: "Ototo",
-		emoji: "??",
+		emoji: "🐰",
 	},
 ];
 
