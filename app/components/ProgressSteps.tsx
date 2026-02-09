@@ -24,7 +24,7 @@ export function ProgressSteps({ current }: ProgressStepsProps) {
 
   return (
     <nav className="w-full max-w-3xl mb-4" aria-label="Fortschritt">
-      <ol className="flex flex-wrap items-start justify-between gap-2">
+      <ol className="flex flex-wrap items-start justify-between gap-1">
         {steps.map((step, index) => {
           const isCompleted = index < currentIndex;
           const isActive = index === currentIndex;
