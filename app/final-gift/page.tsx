@@ -33,7 +33,7 @@ export default function FinalGift() {
 
   const segments = [
     { label: "🎁 Geschenk", color: "#F9B9F2" },
-    { label: "❌ Niete", color: "rgba(249,185,242,0.5)" },
+    { label: "❌ Opfer", color: "rgba(249,185,242,0.5)" },
     { label: "💋 Kuss", color: "#ffffff" },
     { label: "🎁 Geschenk", color: "#F9B9F2" },
     { label: "🫂 Umarmung", color: "rgba(249,185,242,0.5)" },
