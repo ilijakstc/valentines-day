@@ -32,8 +32,8 @@ export default function Breakfast() {
               <span className="opacity-60">Spiegelei</span>
             </li>
             <li className="flex items-center justify-center gap-2">
-              <span className="text-2xl">🍊</span>
-              <span className="opacity-60">Grapefruit Saft</span>
+              <span className="text-2xl">🥭</span>
+              <span className="opacity-60">Mango Saft</span>
             </li>
             <li className="flex items-center justify-center gap-2">
               <span className="text-2xl">🧡</span>
